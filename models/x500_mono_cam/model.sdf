@@ -13,6 +13,5 @@
       <child>camera_link</child>
       <pose relative_to="base_link">.12 .03 .242 0 0 0</pose>
     </joint>
-    <udpPort>5601</udpPort>
   </model>
 </sdf>
